@@ -1,8 +1,8 @@
 # Implementation-of-Deep-Reinforcement-Learning-in-Pacman-Domain
 
 # Requirements:
-# python==3.6.8
-# tensorflow==1.5.0
+python==3.6.8
+tensorflow==1.5.0
 
 
 # SIMPLE COMMAND to run
